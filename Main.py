@@ -28,7 +28,7 @@ class MyCircularQueue:
 
         return True
 
- 
+
 
     def dequeue(self) -> bool:
 
